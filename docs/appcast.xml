@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ShortStack</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 12 Jul 2026 17:10:23 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack-1.1.0.zip" length="1551752" type="application/octet-stream" sparkle:edSignature="5z0edxGIAXYFAfpmOTtzgdc4Z2DKiang/tt0YbOJeMWaQe9MTQCZOijDklWxdb4RJgGXO8TAtRLFuS7aa01JBQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: UmIjv6rKH1Dz8OYgmlInGju9S2s8PDswKrOnkkzyCy/cGsvxmcuHahmbm6xCs726geBwaj7VoLjc7rPMYcZGAA==
+length: 1122
+-->
