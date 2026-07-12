@@ -4,6 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ShortStack</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Sun, 12 Jul 2026 17:11:39 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack-1.1.1.zip" length="1551771" type="application/octet-stream" sparkle:edSignature="HGP2MQ1jNQ8+QQn5IBCKkQlFbm9eGgjVO5ThINyGuN1aQ8jaY9cnY8DiJtGjeVb3qcsxt7UJ214tEeZzOVZDBQ=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack3-2.delta" sparkle:deltaFrom="2" length="10522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mlZMYAMXzZvTVsxfZhD+kUQVfXsKJnfscxie41bO999qjKtmE/yxtjrf4Ef3P2QvtjpWOLMlN4zqP3+zdShWDg=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sun, 12 Jul 2026 17:10:23 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -14,6 +26,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: UmIjv6rKH1Dz8OYgmlInGju9S2s8PDswKrOnkkzyCy/cGsvxmcuHahmbm6xCs726geBwaj7VoLjc7rPMYcZGAA==
-length: 1122
+edSignature: Zjkja6EF2n+7/MTp7gky2xnqe6hMFtQjQuBKTvMRVbhOzEaJpOnphhuQufEBO7Z8cxnrOVFRTjAlDAtlQdokBw==
+length: 2281
 -->
