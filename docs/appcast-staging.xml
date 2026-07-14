@@ -4,6 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ShortStack</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Tue, 14 Jul 2026 04:15:39 -0400</pubDate>
+            <sparkle:channel>staging</sparkle:channel>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.2.0.zip" length="1725223" type="application/octet-stream" sparkle:edSignature="m5C/57gkPa9y4ROaUVZbrK17B945Wt+niLhVHGFxHbUxlRv0CULWd/rOQbWmQTdWlhIJyJ7vdR18CqTnoN+3Aw=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack4-3.delta" sparkle:deltaFrom="3" length="308874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mA5TlxdqObgTqZT199OOhkWBni+qWQGKCKRrwDEKpdnZZm/loyAM3DLNhv2Z1rjD50cyJtEspL08Q/rFStF7Bg=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Sun, 12 Jul 2026 17:11:24 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
@@ -15,6 +28,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 7YhR3TTyLvmFxvicvqFPVvyQtDM0e37pFRvZJl6juampzpAesFTwKMbkU7i2WD5Fo+3JHmaukbzXnKuryuIrBw==
-length: 1175
+edSignature: J9mAv1Y8k1E2nrIcs17E70PT8P0f2wu3rQxoYIub5K8onXnBTrPj+chBmseXcIBoj3npYmpTxchHo7JiZVVRBw==
+length: 2386
 -->
