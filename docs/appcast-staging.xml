@@ -11,7 +11,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.3.0.zip" length="1725195" type="application/octet-stream" sparkle:edSignature="2ELb2svH3ZjQ5Yrpqu33JD8EAY1Wh0Rf9ugBZJaUKpsW/G71B2uJUVkllbV6xlT54k8pW2oO2u2ymZ5+jqm4DA=="></enclosure>
+            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.3.0.zip" length="3080877" type="application/octet-stream" sparkle:edSignature="ysoW9LeicXuDResRL6kvNpXhhUOPzS5AYAOCjdG5iFAna1GxaGnlQrAycwINfcJ+GCB4/wmIv+H02o7IwkVjBg=="></enclosure>
             <sparkle:deltas>
                 <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack5-4.delta" sparkle:deltaFrom="4" length="11634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bDTgztKvyQoxskBs+NXjWx0ABzixPUn3oBfWwMOY5EAembi6yGTBsJzteg9IqlGoYnwg0KrT9PimB3E64abeCg=="></enclosure>
                 <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack5-3.delta" sparkle:deltaFrom="3" length="310418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t81Vg5I9HkTjyBqOCR4tMzLqoIhWGpYG3aOf/89Y9LSTk0g44vQwzGG/0nkvDOA3Elql1ZwX+uNvVl1jqQ9dDw=="></enclosure>
@@ -39,6 +39,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: YgfMb1+wMOrdXnuOGIOcFs5x3KdHRXTrORqYgCKjbh4bRzPTye4KG0pPz2wYJcIeqzGq7JtVNnb8nAeRvOxuDw==
+edSignature: d52uUUgNFnG/Oz00NXs7VSJLKRlgq3mOBX9UZqI3DzIcAIU9m/lV9f+amU6ksEQK+KX2KWBNSbHShREUNChUAw==
 length: 3537
 -->
