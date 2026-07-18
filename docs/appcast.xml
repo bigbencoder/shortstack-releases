@@ -4,6 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ShortStack</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Sat, 18 Jul 2026 19:17:45 -0400</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack-1.4.1.zip" length="3129090" type="application/octet-stream" sparkle:edSignature="nkMfPwd3G/QZgnBXPH0Zz2uUuSQoC3hGXy2mRBkneZpB7x0ZZTZBMJpBl1s0UYWki3VEl8EADNuY0OLJ95HFCQ=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack8-6.delta" sparkle:deltaFrom="6" length="278918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ng9+NELFzEf++D+sb49Mp4fe2MVJj13gEm5/X4Ts8Qt16CYZfEsskW4/VhUPHn2nh82RzwbgjXibqDMKHw2KBA=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack8-5.delta" sparkle:deltaFrom="5" length="279450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="maftzz/pxhSXocnNbN9afzGSwkLkd7cQQFvyz757vsZRzvUaTta22a9FerB79hiMjw+vyzd5FIdHWPHVibDdBQ=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack8-4.delta" sparkle:deltaFrom="4" length="1366918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jAkKLDoCdh0aHxndW4dibiLlpuMep1sw3/9u+fetIwh9M/XN3KXdw6Klf2iqgZAGOR2eYGH1MJ0/Gqrt9BgmAQ=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack8-3.delta" sparkle:deltaFrom="3" length="1496994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pGarJDOgcHIdj2Sou9/Nfz8GbT7QDugUyVm8smfc8dwUJHAIFTFjiaaFtGTr2NHzdmlWBC219eRBYbDTx8qaCg=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack8-2.delta" sparkle:deltaFrom="2" length="1496554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TZIj3HPE/WqWUQo64Al5OqGUyD1e+rNcMUKhF5X5NciATUVkuDtsPXdx7s5tjruopjx8cTcIObiurO90lOZ7DA=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Tue, 14 Jul 2026 07:37:00 -0400</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -11,12 +27,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack-1.3.1.zip" length="3080891" type="application/octet-stream" sparkle:edSignature="PhfFprjFJyKWVVyHV/4zgZCbHYbUQaVyJx8LHhjp0/HslxkjQiY7Miz4lJw+H5MChL/3Ws5o3KjvmTqQFATgAg=="></enclosure>
-            <sparkle:deltas>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack6-5.delta" sparkle:deltaFrom="5" length="11718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+vnJL+BwwJM4H/0c6xQazQwXSF8SLqvfBPYeoIhjno9vPu5GUNDXtquQ8A6I2PHQkPlS9GF6Lgh5o03ndpqeCg=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack6-4.delta" sparkle:deltaFrom="4" length="1142682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="reNuxNKCxkeGuOrdUN3DvOb1HcDIHHuTJpxckasP/h4NuOzd8QBDskeN9RzCjJdVsu9YmW/biBj/dvJRefpeBg=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack6-3.delta" sparkle:deltaFrom="3" length="1402558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0xCV22cH2uTWgbY2dd7rKK6bNjzpwzpEeT/PSd+0GHxqdXrAMjx77yJ0JYxzCFhSk5cz+KQTG75k4AoevJ4mBQ=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack6-2.delta" sparkle:deltaFrom="2" length="1402450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Sscp3uVZABPrjFt8VriuxJcZhtT0QPkRApGigPsg8CyJ2M1m+1JDGL/cVPzKHkICDgGxxy7EouSA1F3UXffuAg=="></enclosure>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.3.0</title>
@@ -27,17 +37,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack-1.3.0.zip" length="3080877" type="application/octet-stream" sparkle:edSignature="ysoW9LeicXuDResRL6kvNpXhhUOPzS5AYAOCjdG5iFAna1GxaGnlQrAycwINfcJ+GCB4/wmIv+H02o7IwkVjBg=="></enclosure>
         </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Tue, 14 Jul 2026 04:17:37 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bigbencoder.github.io/shortstack-releases/downloads/ShortStack-1.2.0.zip" length="1725223" type="application/octet-stream" sparkle:edSignature="m5C/57gkPa9y4ROaUVZbrK17B945Wt+niLhVHGFxHbUxlRv0CULWd/rOQbWmQTdWlhIJyJ7vdR18CqTnoN+3Aw=="></enclosure>
-        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 4F5iwKl2jMA2H6lotCa+W5fpAHJS+DqKym5wul6d3pHQz4T1OBtNqZbQ0dmjnh32T9JkjGxVMw2NarKrjtt8Dw==
-length: 4205
+edSignature: CzryOeY/aLjg8Q/tVXFuFPDtYETQGvDZl9Xb6mhqsg2h86HdjYbBN8S4FBbOEa5SvXm8qS2ZsMRCPMjW8EVIAg==
+length: 4616
 -->
