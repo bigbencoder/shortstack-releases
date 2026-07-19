@@ -11,7 +11,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.5.0.zip" length="3250428" type="application/octet-stream" sparkle:edSignature="kE8NorxjISgB5QK4xiRK4r+lPoeN7JFNwP+iyOLB7JU28tuCwuVXA4wrb6tNziKYt0QjqZ83l6URvMiLdv0YAg=="></enclosure>
+            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.5.0.zip" length="3250423" type="application/octet-stream" sparkle:edSignature="9etO9cv2I9BrO+JKT2Sc+fl9fYQUYToDnfH+g7vnlC3i81Q8dBufD4a28Mqgy9HRKGvNi10DXLGQ3ewwPO9LDg=="></enclosure>
         </item>
         <item>
             <title>1.4.1</title>
@@ -35,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: fUC2G87wyu/HPVxuy2RHs/KMwHjy8CgD30PkUaHCGhh3IwVJTvbuftBywPhw/4N5lSiBTKXZBW6tdx620tDoCA==
+edSignature: ZCnqDRytjlTt9YoORwhBI1NJtjKxYO1exQkLmQTdCxvFJY7wZ9gG5hbkB8tzj2OKdpf1CPPnQHsWAdd53ksjAA==
 length: 2663
 -->
