@@ -5,13 +5,13 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>ShortStack</title>
         <item>
             <title>1.10.0</title>
-            <pubDate>Sun, 26 Jul 2026 20:47:37 -0400</pubDate>
+            <pubDate>Sun, 26 Jul 2026 21:40:35 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.10.0.zip" length="3635597" type="application/octet-stream" sparkle:edSignature="mJanjJ/RJk5voZf6Nat6wZNf11PGYSbhURy4AJ/95Pc8HLpIzf4aCC/SBxwtc7dJ4ML8Kp8RNW3Y+fRRcI5oAw=="></enclosure>
+            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.10.0.zip" length="3635602" type="application/octet-stream" sparkle:edSignature="W8x5LkD3noVW39PwqlKVUMoi5UdPF9cU6g2VxUU8FOpwbf8aSQuXkTK1Nej5hF/xjmg4AA3rmjb1FibuT5rlCA=="></enclosure>
             <sparkle:deltas>
                 <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack22-16.delta" sparkle:deltaFrom="16" length="464842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OO2PHFdABNBoSSljPxSS/Rh1TZmygtITjGmiTLS9G6n0GhBO8IDfaERmhCw5MJBVyWDB3FLA86lWYALud26lAw=="></enclosure>
                 <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack22-15.delta" sparkle:deltaFrom="15" length="470154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l5wyfn3Q+/7COvKLkBwE0r3CgdfebABeiUWEe9croJQGWHVlBPWueyDdu45Fs8SLzaFaCtDEOQOtuhrTMEBQAA=="></enclosure>
@@ -42,6 +42,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ASXxsGQO/R3SetC3pVz6EkEFSrSGBVaJK9+LiHUI9aREiXHf+swYISqO0QcDkR1nEdaK4yTrjPey4OrRqREmBA==
+edSignature: g9uhrtM8R/ZIsb1Ee23DpHbjdLS8Yk4Tmff0i8UkhbCDpvK823Ev3vopppKf/l3qQee8L5Bkp/oxQRj+73WOAg==
 length: 4784
 -->
