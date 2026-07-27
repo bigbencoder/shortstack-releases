@@ -4,6 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ShortStack</title>
         <item>
+            <title>1.10.0</title>
+            <pubDate>Sun, 26 Jul 2026 20:47:37 -0400</pubDate>
+            <sparkle:channel>staging</sparkle:channel>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.10.0.zip" length="3635597" type="application/octet-stream" sparkle:edSignature="mJanjJ/RJk5voZf6Nat6wZNf11PGYSbhURy4AJ/95Pc8HLpIzf4aCC/SBxwtc7dJ4ML8Kp8RNW3Y+fRRcI5oAw=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack22-16.delta" sparkle:deltaFrom="16" length="464842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OO2PHFdABNBoSSljPxSS/Rh1TZmygtITjGmiTLS9G6n0GhBO8IDfaERmhCw5MJBVyWDB3FLA86lWYALud26lAw=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack22-15.delta" sparkle:deltaFrom="15" length="470154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l5wyfn3Q+/7COvKLkBwE0r3CgdfebABeiUWEe9croJQGWHVlBPWueyDdu45Fs8SLzaFaCtDEOQOtuhrTMEBQAA=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack22-14.delta" sparkle:deltaFrom="14" length="483854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k9VYSoqZ0BD6Rc7S9oZmUPoWeG1WAnAEaF8aEXmDXZybL/zUlqG5jz9G+UEl7gtZ4pqOXX2cD6zHeMft9dKHBA=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack22-13.delta" sparkle:deltaFrom="13" length="484842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Y/Vavge4QB2vbRTZF1WcbgxSj7ezTpSxpx/hpXb8vrrjgYLLF5QBXMH3rr6jUCq7ChEC/s8eKrAuZr841UtoAA=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack22-9.delta" sparkle:deltaFrom="9" length="590898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nyTreqOxWwQep+jZ28ovuSWc/KFScTQ+h8EadjBSChwvJD3RP7UON/lcMPZsulrt02D+zEcHPj2oYh0xaHbCCQ=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.90</title>
             <pubDate>Thu, 23 Jul 2026 20:24:58 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
@@ -12,13 +29,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.6.90.zip" length="3462397" type="application/octet-stream" sparkle:edSignature="QT7Rqt+Cs3dAAd65iu445wptpX+GBTN64yPHI8riOYIkeFDKH/5Y5QEXGa1XvAi3/R2s2vhb09FOCCugNr/vDQ=="></enclosure>
-            <sparkle:deltas>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack16-15.delta" sparkle:deltaFrom="15" length="249254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gcg187RHnNuyWSZfUcryOWd8vB+7PFI/yfwDhWJoupoVMOOzZr0Tz2MhdjExr+KZV0zo2p6fCmzJtN+zhOcrBA=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack16-14.delta" sparkle:deltaFrom="14" length="238234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="njgJi9TDbJv1QR8ariV95ve/up0JL9YkNs2wdC/zGFVvvQZ+IlyrXwgkSfN5pZxauleaJHCDpgW4/7vvE/9NCg=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack16-13.delta" sparkle:deltaFrom="13" length="240858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7e++VhfI/dn6Fo1bzvpL/Yl/i4xjBe12Hgrs5DhaKJyj1bYDbrs5AVNiMoXiC38jVQ0mlha7v5J/10YPnD+kBQ=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack16-9.delta" sparkle:deltaFrom="9" length="402402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tm6s9bMitHimgXxx8xMLg2aRchaAMV32N8T2BI7li6R3JsfhvVamqUJDiA1razDvN9lM4vGfg4LTC9gehrjlDw=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack16-8.delta" sparkle:deltaFrom="8" length="599450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gQFHiOO4Tk7K5FOw3qV4V8AoikUrSviL0Jt6ZWSBv9vnPfIr4o3+iScc3uVQ18Zn1ulmaakeOdyeRKsqPzk+AA=="></enclosure>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.6.2</title>
@@ -30,18 +40,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.6.2.zip" length="3429477" type="application/octet-stream" sparkle:edSignature="vCgT4Q+ZG619bcI1RarvTAwy5+CizvLTq1CrQtC3Fr5YIM7gcnechzud+AblDjA+FkOquy6KEi/ifPXjS5CjBg=="></enclosure>
         </item>
-        <item>
-            <title>1.6.1</title>
-            <pubDate>Wed, 22 Jul 2026 20:43:51 -0400</pubDate>
-            <sparkle:channel>staging</sparkle:channel>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.6.1.zip" length="3426591" type="application/octet-stream" sparkle:edSignature="dYen4Nt95cMwZzHQNXONhtp5tQvTYVg7oxqviw+tQLH66/DUVPqRZjW/nectz7spqDBFx5NdImb8fIjngxmDAQ=="></enclosure>
-        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: eK6NCCQ7qiM2Ts6b4N0sbJqT9snJ/Y/IR27AL8QnSs9GKcDlcHaHRaCDC+BIdNvSyhqblULPGAszMUxPbm/cDA==
-length: 4779
+edSignature: ASXxsGQO/R3SetC3pVz6EkEFSrSGBVaJK9+LiHUI9aREiXHf+swYISqO0QcDkR1nEdaK4yTrjPey4OrRqREmBA==
+length: 4784
 -->
