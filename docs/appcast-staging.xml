@@ -5,19 +5,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>ShortStack</title>
         <item>
             <title>1.11.0</title>
-            <pubDate>Sun, 25 Oct 2026 21:42:51 -0400</pubDate>
+            <pubDate>Mon, 26 Oct 2026 18:32:53 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
-            <sparkle:version>26</sparkle:version>
+            <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.11.0.zip" length="3800349" type="application/octet-stream" sparkle:edSignature="UywrAxIW9fONGJB/tTFnFeedTPgy8nrQWPBKIP2g8g6n4p+x9jIDRJIrDtCXFeMqb3HrR1PKJVEhrYPYceL5AQ=="></enclosure>
+            <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack-1.11.0.zip" length="3843065" type="application/octet-stream" sparkle:edSignature="/yPGdcuteCsGjuk1OZU8KuTxPzylDry3gjWL5fEuP91bXfrcIFVcP/o8Lm7IVW5Vr3Ji7B8BY/+bCJLeua8hBg=="></enclosure>
             <sparkle:deltas>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack26-24.delta" sparkle:deltaFrom="24" length="476574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DknJBlQWnI4wifw5kTFVONGojdY7LuQgIg7x7BXh6Uhho4YTEFv6kVLLEB6GDzjsIrH3aIiFhKo+UYkwWjwfDA=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack26-23.delta" sparkle:deltaFrom="23" length="546578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pCViOosgEV54gPsIrEpFbYhv96105kfhM8stVEbkcFjU0Y8Q/EgyEcW5uSshT72tEc7RBPEMfinjl/CGmx6PCQ=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack26-22.delta" sparkle:deltaFrom="22" length="546434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B3uidU91oBO5tLYuaPHL4VIHRIiVOWUyTal7p9K+z4fcUBEJOy6Ta0okKpZbjikFq26fqc15rWylSATl5X6oBQ=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack26-16.delta" sparkle:deltaFrom="16" length="693906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LV5ytdULG0Ed3q0KqFKLSz6keKNN0xalqM2qMPMO/Tdx+PtoqoML/w7GkO+pvaZNDK9JSGhwvk5vKGGZlJ4JDw=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack26-15.delta" sparkle:deltaFrom="15" length="701370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CkXJdRMbBuLD+rhgZI6XsokJYIidqK4v1BwV+kWu60UlUnwCV2OOzby3TYGiXUH312DilM5AxBBDvuPXZE/QDg=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack27-24.delta" sparkle:deltaFrom="24" length="520022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sczsZDOXW863SIKn0gD2gttbCcp4icoNQsAF6cb5vwdFudB9eI6CQ+i0doLh9Q3myuEF3Rw2y/R3z2avFmqxAg=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack27-23.delta" sparkle:deltaFrom="23" length="594682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MUPyZXaHSgdIRhusdB1yqDvo4BekTaZhS/p0YBZwq3zTEdTugHbSNB6hICtWMT0uNP83f7z3hljIiyp5guHQDw=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack27-22.delta" sparkle:deltaFrom="22" length="593554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kiGGilrN2fbjhAdZ1rMXMyvbj0Xkvr0CG6PXCSfEzKzL2JVge2uNhRyGTRUwRT3gMC0bGHetkBpRPwYQc0WcDg=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack27-16.delta" sparkle:deltaFrom="16" length="736890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Rj/g83LzjNg8QBU3/kbPCALftiKaLl7H6NqzjFVHBD0m0J9HuRlvci2wLlqBEaGy//jVDOuXZMG7dL/wBsCDDA=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/shortstack-releases/staging/ShortStack27-15.delta" sparkle:deltaFrom="15" length="744762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x/dwU1HUj7hUw4KAXZfdoxdc8wkRc0jBYJtj5aiMCI0R2xqdmjTIgSsj0VSTEVVRCaivbY6w8fcwwgJoZwZABg=="></enclosure>
             </sparkle:deltas>
         </item>
         <item>
@@ -42,6 +42,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +/j1sZE1OHGNNflhHQE3A6Rar1Ptf2DGQUnef6p3pZSq5u/quNyDNNjeTlazyHjVwI0QVPz2vQABuDZ+yh+FAw==
+edSignature: t7zESm49rSQlmb+EIXoIjHs7F+875XcTdw4/xPu26lZVChgeTwDx+qo40Ru8F92K8sg8N0fbTHNMo/64Q2wTAw==
 length: 4789
 -->
